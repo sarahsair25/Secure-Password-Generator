@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "secure-password-generator"
+version = "0.1.0"
+description = "Secure random password generator (CLI) built in Python."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+password-generator = "password_generator.cli:run_cli"
+
+[tool.setuptools]
+packages = ["password_generator"]
