@@ -131,5 +131,6 @@ Feel free to use, modify, and distribute.
 🙌 Author
 
 Built with ❤️ as a learning and portfolio project.
-git clone https://github.com/your-username/secure-password-generator.git
+
+git clone https://github.com/sarahsair25/secure-password-generator.git
 cd secure-password-generator
