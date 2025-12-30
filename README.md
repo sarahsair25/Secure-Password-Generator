@@ -40,7 +40,7 @@ Perfect as a **portfolio project** for entry-level Python / backend / security-f
 
 ### Clone the repository
 ```bash
-git clone https://github.com/your-username/secure-password-generator.git
+git clone https://github.com/sarahsair25/secure-password-generator.git
 cd secure-password-generator
 
 Install in editable mode
@@ -132,5 +132,4 @@ Feel free to use, modify, and distribute.
 
 Built with ❤️ as a learning and portfolio project.
 
-git clone https://github.com/sarahsair25/secure-password-generator.git
-cd secure-password-generator
+
