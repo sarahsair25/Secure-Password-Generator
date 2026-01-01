@@ -1,3 +1,6 @@
+
+<img width="1536" height="1024" alt="Random password generator" src="https://github.com/user-attachments/assets/d98d7e29-15f9-492b-adf7-6e6e716ea964" />
+
 # Secure-Password-Generator
 A secure random password generator built in Python with a clean CLI interface.Secure password generator using Python’s cryptographic randomness, packaged as a reusable CLI tool with __main__.py and pyproject.toml.
 # 🔐 Secure Password Generator (Python CLI)
